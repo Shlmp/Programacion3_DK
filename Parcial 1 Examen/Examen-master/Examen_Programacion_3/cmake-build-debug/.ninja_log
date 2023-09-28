@@ -1,0 +1,8 @@
+# ninja log v5
+0	515	7176299239970279	CMakeFiles/Examen.dir/main.cpp.obj	e2a3193c565ad179
+1	545	7176305362063496	CMakeFiles/Examen.dir/main.cpp.obj	e2a3193c565ad179
+44	546	7176305362052667	CMakeFiles/Examen.dir/DoubleCell.cpp.obj	3536fca2e2642e6e
+546	1634	7176305372817701	Examen.exe	7156195d156a8b59
+1	865	7176315736228401	CMakeFiles/Examen.dir/main.cpp.obj	e2a3193c565ad179
+50	866	7176315736217193	CMakeFiles/Examen.dir/DoubleCell.cpp.obj	3536fca2e2642e6e
+866	1629	7176315742872813	Examen.exe	7156195d156a8b59
