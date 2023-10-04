@@ -16,7 +16,7 @@ public:
     DoubleCell(DoubleCell&& other) noexcept;
 
     // Destructor
-    ~DoubleCell();
+    ~DoubleCell() = 0;
 
     // Assignment operator by copy
     DoubleCell& operator=(const DoubleCell& other);

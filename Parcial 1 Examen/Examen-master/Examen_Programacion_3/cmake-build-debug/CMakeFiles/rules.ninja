@@ -47,7 +47,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\movab\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\movab\Documents\ExamenProgra3\Examen-master\Examen_Programacion_3 -BC:\Users\movab\Documents\ExamenProgra3\Examen-master\Examen_Programacion_3\cmake-build-debug
+  command = C:\Users\movab\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S"C:\Users\movab\Documents\Programación3_DK\Programacion3_DK\Parcial 1 Examen\Examen-master\Examen_Programacion_3" -B"C:\Users\movab\Documents\Programación3_DK\Programacion3_DK\Parcial 1 Examen\Examen-master\Examen_Programacion_3\cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 

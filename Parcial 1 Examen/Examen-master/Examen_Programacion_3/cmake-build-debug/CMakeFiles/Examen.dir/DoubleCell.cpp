@@ -1,4 +1,4 @@
-#include "DoubleCell.h"
+#include "../../../DoubleCell.h"
 #include <stdexcept>
 
 // Default constructor
@@ -22,10 +22,6 @@ DoubleCell::DoubleCell(DoubleCell&& other) noexcept
 
 
 // Destructor
-DoubleCell:: ~DoubleCell() //Assigns value of Storedvalue to 0
-{
-Storedvalue = 0;
-}
 
 // Assignment operator by copy
 DoubleCell& DoubleCell::operator=(const DoubleCell& other){ //Copies value of other to Storedvalue

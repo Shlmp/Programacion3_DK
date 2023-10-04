@@ -4,5 +4,5 @@ project(Examen)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Examen main.cpp
-DoubleCell.cpp DoubleCell.h
+        cmake-build-debug/CMakeFiles/Examen.dir/DoubleCell.cpp DoubleCell.h
 )

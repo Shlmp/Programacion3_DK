@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/movab/Documents/ExamenProgra3/Examen-master/Examen_Programacion_3/cmake-build-debug"
+			"value" : "c:/Users/movab/Documents/Programaci\u00f3n3_DK/Programacion3_DK/Parcial 1 Examen/Examen-master/Examen_Programacion_3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/movab/Documents/ExamenProgra3/Examen-master/Examen_Programacion_3/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/movab/Documents/Programaci\u00f3n3_DK/Programacion3_DK/Parcial 1 Examen/Examen-master/Examen_Programacion_3/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/movab/Documents/ExamenProgra3/Examen-master/Examen_Programacion_3"
+			"value" : "C:/Users/movab/Documents/Programaci\u00f3n3_DK/Programacion3_DK/Parcial 1 Examen/Examen-master/Examen_Programacion_3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/movab/Documents/ExamenProgra3/Examen-master/Examen_Programacion_3/cmake-build-debug"
+			"value" : "C:/Users/movab/Documents/Programaci\u00f3n3_DK/Programacion3_DK/Parcial 1 Examen/Examen-master/Examen_Programacion_3/cmake-build-debug"
 		},
 		{
 			"name" : "Examen_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/movab/Documents/ExamenProgra3/Examen-master/Examen_Programacion_3"
+			"value" : "C:/Users/movab/Documents/Programaci\u00f3n3_DK/Programacion3_DK/Parcial 1 Examen/Examen-master/Examen_Programacion_3"
 		}
 	],
 	"kind" : "cache",
