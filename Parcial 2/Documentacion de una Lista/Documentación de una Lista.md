@@ -141,3 +141,5 @@ private:
 
 #endif
 ```
+
+Sigo con un poco de dudas acerca del por qué o cuándo usar vectores y listas. Al igual que tengo dudas con la diferencia entre int++ e ++int, o en este caso ++this.
