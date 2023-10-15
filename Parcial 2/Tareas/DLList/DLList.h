@@ -13,12 +13,12 @@ private:
         Node *prev;
 
         //Constructor de copia
-        Node(const Object &d = Object{}, Node *n = nullptr)
-                : data{d}, next{n}, prev{n} {}
+        Node(const Object &d = Object{}, Node *n = nullptr, Node *p = nullptr)
+                : data{d}, next{n}, prev{p} {}
 
         //Constructor de referncia
-        Node(Object &&d, Node *n = nullptr)
-                : data{std::move(d)}, next{n}, prev{n} {}
+        Node(Object &&d, Node *n = nullptr, Node *p = nullptr)
+                : data{std::move(d)}, next{n}, prev{p} {}
     };
 
 public:
@@ -64,6 +64,14 @@ public:
             return old;
         }
 
+        iterator &operator+(int addition){
+
+            for(int i = 0; i<addition;i++){
+                ++(*this);
+            }
+            return  *this;
+        }
+
         //Operadores para realizar comparaciones
         bool operator==(const iterator &rhs) const {
             return current == rhs.current;
@@ -73,7 +81,7 @@ public:
             return !(*this == rhs);
         }
 
-    private:
+    protected:
         //apunta al nodo al que estoy trabajando en ese momento
         Node *current;
         iterator(Node *p) : current{p} {}
@@ -137,17 +145,17 @@ public:
     //este funciona por copia
     iterator insert(iterator itr, const Object &x) {
         Node *p = itr.current;
-        head->next = new Node{x, head->next};
+        p->next = new Node{x, p->next, p};
         theSize++;
-        return iterator(head->next);
+        return iterator(p->next);
     }
 
     //este funciona por referencia
     iterator insert(iterator itr, Object &&x) {
         Node *p = itr.current;
-        head->next = new Node{std::move(x), head->next};
+        p->next = new Node(std::move(x),p->next, p);
         theSize++;
-        return iterator(head->next);
+        return iterator(p->next);
     }
 
     void insert(int pos, const Object &x) {
@@ -192,15 +200,21 @@ public:
     }
 
 
-
-private:
+protected:
     Node *head;
     Node *tail;
     int theSize;
     //init necesita acceso a los datos privados para inicializar una lista vacia
     void init() {
+        head = new Node();
+        tail = new Node();
         theSize = 0;
+
         head->next = tail;
+        head->prev = nullptr;
+
+        tail->prev = head;
+        tail->next = nullptr;
     }
 
 

@@ -4,4 +4,5 @@ project(DLList)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(DLList main.cpp
-        DLList.h)
+        DLList.h
+        SLList.h)
