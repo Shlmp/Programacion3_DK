@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <utility>
+#include <vector>
 
 template <typename Object>
 class DLList{
@@ -87,13 +88,17 @@ public:
         iterator(Node *p) : current{p} {}
         //la clase amigo de acceso a los atributos privados
         friend class DLList<Object>;
+
+        Object & retrieve() const{
+            return current->data;
+        }
     };
 
 public:
     //Define la dimension de la lista
     //Cuando se llame al constructor, ya tiene que estar una cabeza y una cola
-    DLList() : head(new Node()), tail(new Node()), theSize(0) {
-        head->next = tail;
+    DLList() {
+        init();
     }
 
     //Destructor de la lista
@@ -103,6 +108,14 @@ public:
         delete head;
         delete tail;
     }
+
+    //+20 extra points
+    /*
+    DLList(std::vector<Object> list){
+        init();
+        for(auto & x: list)
+            push_back(x);
+    }*/
 
     //Sirve para meter el iterador al principio o al final
     iterator begin() { return {head->next}; }
@@ -123,16 +136,21 @@ public:
     }
 
     //funcion de push por copia
-    void push_front(const Object &x) { insert(begin(), x); }
+    void push_front(const Object &x) {
+        insert(begin(), x);
+    }
     //funcion de push por referencia
-    void push_front(Object &&x) { insert(begin(), std::move(x)); }
+    void push_front(Object &&x) {
+        insert(begin(), std::move(x));
+    }
 
-    void push_back(const Object &x) { insert(end(), x); }
+    void push_back(const Object &x) {
+        insert(end(), x);
+    }
     //funcion de push por referencia
-    void push_back(Object &&x) { insert(end(), std::move(x)); }
-
-
-
+    void push_back(Object &&x) {
+        insert(end(), std::move(x));
+    }
 
     //elimina el valo de en frente
     void pop_front() {
@@ -145,17 +163,15 @@ public:
     //este funciona por copia
     iterator insert(iterator itr, const Object &x) {
         Node *p = itr.current;
-        p->next = new Node{x, p->next, p};
         theSize++;
-        return iterator(p->next);
+        return {p->prev = p->prev->next = new Node{x, p, p->prev}};
     }
 
     //este funciona por referencia
     iterator insert(iterator itr, Object &&x) {
         Node *p = itr.current;
-        p->next = new Node(std::move(x),p->next, p);
         theSize++;
-        return iterator(p->next);
+        return {p->prev = p->prev->next = new Node{std::move(x), p, p->prev}};
     }
 
     void insert(int pos, const Object &x) {
@@ -164,6 +180,8 @@ public:
 
     iterator get_iterator(int a)
     {
+        if(a > theSize)
+            throw std::logic_error("Out of Bounds.");
         iterator it = begin();
         for(int i = 0; i != a; ++i) {
             ++it;
@@ -176,12 +194,14 @@ public:
 
         if (itr == end())
             throw std::logic_error("Cannot erase at end iterator");
-        Node *p = head;
-        while (p->next != itr.current) p = p->next;
-        p->next = itr.current->next;
-        delete itr.current;
+        Node *p = itr.current;
+        iterator returnValue(p->next);
+        p->prev->next = p->next;
+        p->next->prev = p->prev;
+        delete p;
         theSize--;
-        return iterator(p->next);
+
+        return returnValue;
     }
 
     void erase(int pos)
@@ -206,8 +226,8 @@ protected:
     int theSize;
     //init necesita acceso a los datos privados para inicializar una lista vacia
     void init() {
-        head = new Node();
-        tail = new Node();
+        head = new Node;
+        tail = new Node;
         theSize = 0;
 
         head->next = tail;

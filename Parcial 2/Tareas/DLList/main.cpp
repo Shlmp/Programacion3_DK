@@ -25,11 +25,12 @@ int main() {
     // Test integer Double Linked List
     DLList<int> integerList;
     integerList.push_back(10);
+
     integerList.push_front(20);
     integerList.insert(1, 40);
     int a =3;
     integerList.insert(integerList.begin() + 2, 30);
-    integerList.insert(a, 12);
+    integerList.insert(3, 12);
     std::cout << "Integer list: ";
     integerList.print();
     integerList.erase(integerList.begin() + 1);
@@ -119,5 +120,7 @@ int main() {
     std::cout << queue.front() << std::endl;
     queue.clear();
     */
+
+    //DLList<int> listTest = {1, 2, 3, 4, 5};
     return 0;
 }
