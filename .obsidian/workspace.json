@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "e4320e5eec85921c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa2f5fd94386bdf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18179ed347b7c53e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Resumen 4to Capítulo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c11f5117d22bd3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e990f0682309737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2f4a4a5c689297",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46f8c2c75a6eb330",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "031a60d4e7a88d49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b03be977a969fe88",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcba8547ce5bb41d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6840c76448e3960c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Resumen 4to Capítulo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "565755e2582933fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Resumen 4to Capítulo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4eceaa195fb59935",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61e4c9b6752eff22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Resumen 4to Capítulo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18179ed347b7c53e",
+  "lastOpenFiles": [
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/tmp",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/tmp",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/DLList.dir/vc140.pdb",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/Testing/Temporary/LastTest.log",
+    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/DLList.dir/manifest.res",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029155243.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029155207.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029154939.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029153906.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029153322.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029153017.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029152842.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029144707.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029144643.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029144628.png",
+    "Pasted image 20231029112859.png.md",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Resumen 4to Capítulo.md",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 3er Capitulo/Resumen - 3er Capítulo.md",
+    "Parcial 2/Documentacion de un Arbol/Documentación de un Árbol.md",
+    "Parcial 2/Documentacion de una Lista/Documentación de una Lista.md"
+  ]
+}
