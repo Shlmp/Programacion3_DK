@@ -1,4 +1,3 @@
-```c++
 #ifndef AVL_TREE_H
 #define AVL_TREE_H
 
@@ -215,17 +214,3 @@ ex1
 };
 
 #endif /* AVL_TREE_H */
-```
-
-Un árbol AVL es un árbol de búsqueda binaria auto-balanceable donde cada nodo mantiene una información extra (balance), este valor puede ser -1, 0 o 1.
-
-El balance de un nodo es la diferencia entre la altura del subárbol izquierdo y la del subárbol derecho de ese nodo.
-$$height(AVL->left)-height(AVL->right)<2$$
-También teniendo su definición simétrica.
-$$height(AVL->right)-height(AVL->left)<2$$
-
-Durante el proceso de insercción o eliminación, un desbalance puede ocurrir, la altura de alguno de los nodos es mayor que 1. Existen 4 casos que corrigen el desbalanceo del árbol AVL:
-1. **Caso 1**: rotación simple derecha.
-2. **Caso 2**: rotación simple izquierda.
-3. **Caso 3**: rotación doble izquierda derecha.
-4. **Caso 4**: rotación doble derecha izquierda.
