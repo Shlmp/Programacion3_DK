@@ -1,0 +1,3 @@
+C:/Users/movab/Documents/Programación3_DK/Programacion3_DK/Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/DLList.dir
+C:/Users/movab/Documents/Programación3_DK/Programacion3_DK/Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/movab/Documents/Programación3_DK/Programacion3_DK/Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcial 2/Documentacion de un Arbol/Documentación de un Árbol.md",
+                "file": "Parcial 2/Proyecto/README/DLList.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcial 2/Documentacion de un Arbol/Documentación de un Árbol.md",
+                "file": "Parcial 2/Proyecto/README/DLList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcial 2/Documentacion de un Arbol/Documentación de un Árbol.md",
+                "file": "Parcial 2/Proyecto/README/DLList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcial 2/Documentacion de un Arbol/Documentación de un Árbol.md"
+                "file": "Parcial 2/Proyecto/README/DLList.md"
               }
             }
           }
@@ -160,9 +160,14 @@
   },
   "active": "18179ed347b7c53e",
   "lastOpenFiles": [
+    "Parcial 2/Proyecto/README/Stack.md",
+    "Parcial 2/Proyecto/README/Queue.md",
+    "Parcial 2/Proyecto/README/DLList.md",
+    "Parcial 2/Proyecto/README/SLList.md",
+    "Parcial 2/Documentacion de un Arbol/Documentación de un Árbol.md",
+    "Parcial 2/Proyecto/README",
     "Parcial 2/Documentacion de un Arbol/AVLTree.h",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Resumen 4to Capítulo.md",
-    "Parcial 2/Documentacion de un Arbol/Documentación de un Árbol.md",
     "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe",
     "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp",
     "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/tmp",
@@ -171,8 +176,6 @@
     "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe",
     "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c",
     "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/tmp",
-    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/CMakeFiles/DLList.dir/vc140.pdb",
-    "Parcial 2/Tareas/SLList_DLList_Stack_Queue/cmake-build-debug/Testing/Temporary/LastTest.log",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029155243.png",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029155207.png",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Imagenes/Pasted image 20231029154939.png",
