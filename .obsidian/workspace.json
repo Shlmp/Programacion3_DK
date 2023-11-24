@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
+                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
+                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
+                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md"
+                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md"
               }
             }
           }
@@ -158,20 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18179ed347b7c53e",
+  "active": "6a2f4a4a5c689297",
   "lastOpenFiles": [
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230024.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230837.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230828.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230812.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230752.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230715.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230647.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230630.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230616.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230559.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230536.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230024.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230837.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230828.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230812.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230752.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230715.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230647.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230630.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230616.png",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230559.png",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 3er Capitulo/Resumen - 3er Capítulo.md",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Resumen 4to Capítulo.md",
     "Untitled.md",
@@ -185,7 +185,7 @@
     "Parcial 2/Sort/cmake-build-debug/CMakeFiles/sorting.dir",
     "Parcial 2/Sort/cmake-build-debug/build.ninja.tmp5051b",
     "Parcial 2/Proyecto/README/Queue.md",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 7mo Capitulo/Imagenes",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes",
     "Parcial 2/Documentacion de un Arbol/Documentación de un Árbol.md",
     "Parcial 2/Proyecto/README/DLList.md",
     "Parcial 2/Proyecto/README/Stack.md",
