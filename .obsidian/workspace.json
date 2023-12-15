@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba085b25e2b3b11d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 3er Capitulo/Resumen - 3er Capítulo.md",
+                "file": "Parcial 3/Homework/Persona 5 Strikers Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
+                "file": "Parcial 3/Homework/Persona 5 Strikers Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
+                "file": "Parcial 3/Homework/Persona 5 Strikers Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md"
+                "file": "Parcial 3/Homework/Persona 5 Strikers Graph.md"
               }
             }
           }
@@ -158,11 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2f4a4a5c689297",
+  "active": "18179ed347b7c53e",
   "lastOpenFiles": [
+    "Parcial 3/Homework/Pokemon Graph.md",
+    "Parcial 3/Homework/Persona 5 Strikers Graph.md",
+    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
+    "Untitled.md",
+    "Parcial 3/Homework",
+    "Parcial 3",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230024.png",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Resumen - 7mo Capítulo.md",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230837.png",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230828.png",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230812.png",
@@ -174,7 +167,6 @@
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes/Pasted image 20231123230559.png",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 3er Capitulo/Resumen - 3er Capítulo.md",
     "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 2/Resumenes/Resumen - 4to Capitulo/Resumen 4to Capítulo.md",
-    "Untitled.md",
     "Parcial 2/Sort/cmake-build-debug/Testing/Temporary/LastTest.log",
     "Parcial 2/Sort/cmake-build-debug/Testing/Temporary",
     "Parcial 2/Sort/cmake-build-debug/Testing",
@@ -182,10 +174,7 @@
     "Parcial 2/Sort/cmake-build-debug/CMakeFiles/rules.ninja",
     "Parcial 2/Sort/cmake-build-debug/CMakeFiles/TargetDirectories.txt",
     "Parcial 2/Sort/cmake-build-debug/cmake_install.cmake",
-    "Parcial 2/Sort/cmake-build-debug/CMakeFiles/sorting.dir",
-    "Parcial 2/Sort/cmake-build-debug/build.ninja.tmp5051b",
     "Parcial 2/Proyecto/README/Queue.md",
-    "Textos/Data Structures & Algorithm Analysis in C++ - Resumen/Parcial 3/Resumen - 7mo Capitulo/Imagenes",
     "Parcial 2/Documentacion de un Arbol/Documentación de un Árbol.md",
     "Parcial 2/Proyecto/README/DLList.md",
     "Parcial 2/Proyecto/README/Stack.md",
